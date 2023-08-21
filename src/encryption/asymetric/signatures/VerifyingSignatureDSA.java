@@ -1,7 +1,8 @@
+package encryption.asymetric.signatures;
    import java.security.*;
     import java.util.Scanner;
  
-    public class VerifyingSignature
+    public class VerifyingSignatureDSA
     {
        public static void main(String args[]) throws Exception
        {

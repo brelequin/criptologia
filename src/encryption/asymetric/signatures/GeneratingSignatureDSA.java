@@ -1,7 +1,13 @@
+package encryption.asymetric.signatures;
    import java.security.*;
     import java.util.Scanner;
  
-    public class GeneratingSignature
+    /**
+     * DSA encryption
+     * @author brenda.l.quintanilla
+     *
+     */
+    public class GeneratingSignatureDSA
     {
        public static void main(String args[]) throws Exception {
           //the message that will be signed

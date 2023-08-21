@@ -1,3 +1,4 @@
+package base;
 import java.security.MessageDigest;
 import java.util.Scanner;
  
